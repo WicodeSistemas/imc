@@ -1,0 +1,41 @@
+body{
+    font-family: Aria, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin;0;
+
+}
+
+.container{
+    background-color: #7ba528;
+    padding: 30px;
+    border-radius:25px;
+    box-shadow: 0 15px 12px rgba(0,0,0,0.1);
+    height:30%;
+    max-width: 42%;
+    text-align:center;
+}
+
+input[type="number"]{
+    display: flex;
+    text-color: #dddd;
+    font-style: bold;
+    padding:10px;
+    border: 1px solid #25de46;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    background-color: #fff;
+
+}
+
+label{
+    font-size:1.6rem;
+    color: #ffff;
+}
+
+h2{
+    text-align:left;
+}
